@@ -35,9 +35,3 @@ A clean and simple **Agenda application** written in **Python** that allows you 
 
 ## 📄 License
 This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-- Lucas Gabriel Nordio
-- 📘 Computer Engineering @ Aberta University
-- 📧 your.email@example.com
-- 🌐 GitHub Profile
