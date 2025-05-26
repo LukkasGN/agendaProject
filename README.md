@@ -20,3 +20,24 @@ A clean and simple **Agenda application** written in **Python** that allows you 
 - 📂 File I/O for saving/loading data
 - 🧠 Basic data structures (e.g., dictionaries or lists)
 - 💡 Simple terminal/CLI inter
+
+---
+
+## 📦 How to Run
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/LukkasGN/agendaProject/
+   cd basicAgenda.py
+   python agenda.py
+   
+2. Follow the terminal prompts to add, view, update, or delete entries.
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+- Lucas Gabriel Nordio
+- 📘 Computer Engineering @ Aberta University
+- 📧 your.email@example.com
+- 🌐 GitHub Profile
